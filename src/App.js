@@ -1,11 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <div className="container my-10 mx-auto">
+      <header className="min-h-screen flex flex-col justify-center items-center">
         <p>
           Work in progress
         </p>
